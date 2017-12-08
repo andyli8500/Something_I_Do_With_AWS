@@ -4,8 +4,8 @@
 
 - When click on "New" -> Select"Terminal"
 
-![](images/smnew.jpg)
+![](images/smnew.png)
 
 - This creates a new tab in the browser, and you can then install some packages in the terminal. E.g.
 
-![](images/smterminal.jpg)
+![](images/smterminal.png)
