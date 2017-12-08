@@ -26,9 +26,11 @@
 Note that, these env output from "conda info" gives different names from what you see in the SageMaker Notebook console. The followings are the corresponding mappings to them: (<Notebook> -> <conda info>)
 
 
+```
 conda_mxnet_p27            ->        mxnet_p27
 conda_mxnet_p36            ->        mxnet_p36
 conda_python2            ->        python2
 conda_python3            ->        python3
 conda_tensorflow_p27    ->        tensorflow_p27
 conda_tensorflow_p36    ->        tensorflow_p36
+```
