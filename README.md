@@ -5,4 +5,4 @@
 
 [During_a_EMR_step_how_to_ssh_to_salve_nodes_from_master_without_passing_pem_file](During_a_EMR_step_how_to_ssh_to_salve_nodes_from_master_without_passing_pem_file.md)
 
-[Install_packages_in_SageMaker_notebook instance](Install_packages_in_SageMaker_notebook instance.md)
+[Install_packages_in_SageMaker_notebook instance](Install_packages_in_SageMaker_notebook_instance.md)
