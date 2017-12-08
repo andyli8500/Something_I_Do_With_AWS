@@ -1,3 +1,8 @@
 # Something_I_Do_With_AWS
 
 [Change_retry_parameters_of_DynamoDB_using_boto3](Change_retry_parameters_of_DynamoDB_using_boto3.md)
+
+
+[During_a_EMR_step_how_to_ssh_to_salve_nodes_from_master_without_passing_pem_file](During_a_EMR_step_how_to_ssh_to_salve_nodes_from_master_without_passing_pem_file.md)
+
+[Install_packages_in_SageMaker_notebook instance](Install_packages_in_SageMaker_notebook instance.md)
